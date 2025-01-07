@@ -1,5 +1,7 @@
 import React from "react";
 
-export default function page() {
-  return <div></div>;
-}
+const Page: React.FC = () => {
+  return <div>ihsan ainul yaqin 1</div>;
+};
+
+export default Page;
